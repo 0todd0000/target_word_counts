@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
